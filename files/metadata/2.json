@@ -1,0 +1,19 @@
+{
+    "name": "Metal Slug 2",
+    "description": "Metal Slug 2",
+    "image": "ipfs://QmTtrxeeCZAVbZPwqs7i9pCDwSrGtyMECGx1rGPfq1tKhh/metal_slug_2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blond"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Double gun"
+        }
+    ]
+}
